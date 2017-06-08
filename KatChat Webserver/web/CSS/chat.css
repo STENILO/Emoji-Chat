@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 13, 2016, 12:24:41 PM
+    Author     : Mikkel
+*/
+
+textarea {
+	width: 50em;
+	height: 30em;
+}
+
+input {
+	width: 44em;
+	height: 2em;
+}
+
+button {
+	height: 2em;
+	width: 5em;
+}
